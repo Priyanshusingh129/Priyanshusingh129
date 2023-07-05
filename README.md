@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Priyanshusingh129
-- 👀 I’m interested in Web development 
+- 👀 I’m interested in Web development and Software development
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
